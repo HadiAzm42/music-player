@@ -14,23 +14,33 @@ const nextBtn = document.getElementById("next");
 const songs = [
   {
     name: "jacinto-1",
-    displayName: "Electric Chill Machine",
-    artist: "Jacinto Design",
+    displayName: "Iraaday",
+    artist: "Abdul Hannan",
   },
   {
     name: "jacinto-2",
-    displayName: "Seven Nation Army (Remix)",
-    artist: "Jacinto Design",
+    displayName: "Agency",
+    artist: "Young Stunners",
   },
   {
     name: "jacinto-3",
-    displayName: "Goodnight, Disco Queen",
-    artist: "Jacinto Design",
+    displayName: "Billo",
+    artist: "J Star",
   },
   {
     name: "metric-1",
-    displayName: "Front Row (Remix)",
-    artist: "Metric/Jacinto Design",
+    displayName: "No Love",
+    artist: "Shubh",
+  },
+  {
+    name: "metric-2",
+    displayName: "Bumpin Solo",
+    artist: "Rap Demon",
+  },
+  {
+    name: "metric-3",
+    displayName: "Why Not Meri Jaan",
+    artist: "Young Stunners",
   },
 ];
 
